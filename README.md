@@ -20,11 +20,11 @@ Through my degrees in information science and technology I have developed skills
 |Swift|Equate|*In-progress*|[/equate](https://github.com/thorlindberg/equate)||
 |JavaScript|Measure|*Complete*|[/measure](https://github.com/thorlindberg/measure)|[Mobile Website](https://thorlindberg.github.io/measure/)|
 |JavaScript|PlayScript|*Complete*|[/playscript](https://github.com/thorlindberg/playscript)|[Desktop Website](https://thorlindberg.github.io/playscript/)|
-|JavaScript|Markdocs|*Complete*|[/markdocs](https://github.com/thorlindberg/markdocs)||
+|JavaScript|Markdocs|*Complete*|[/markdocs](https://github.com/thorlindberg/markdocs)|[Desktop Website](https://thorlindberg.github.io/markdocs/)|
 |JavaScript|Thesis|*Complete*|[/thesis](https://github.com/thorlindberg/thesis)||
 |VBA|Programmatic UserForm|*In-progress*|[/programmatic-userform](https://github.com/thorlindberg/programmatic-userform)||
 |XML|XSL Form|*In-progress*|[/xsl-form](https://github.com/thorlindberg/xsl-form)||
-|Lua|HideChat|*Complete*|x[/hidechat](https://github.com/thorlindberg/hidechat)||
+|Lua|HideChat|*Complete*|[/hidechat](https://github.com/thorlindberg/hidechat)||
 
 <br>
 
