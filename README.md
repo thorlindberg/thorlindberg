@@ -18,8 +18,8 @@ Through my degrees in information science and technology I have developed skills
 |Swift|String Locals|*Published*|[/locals](https://github.com/thorlindberg/locals)|[App Store](https://apps.apple.com/app/string-locals/id1565563292)|
 |Swift|Transparent GIF|*In-progress*|[/transparent](https://github.com/thorlindberg/transparent)||
 |Swift|Equate|*In-progress*|[/equate](https://github.com/thorlindberg/equate)||
-|JavaScript|Measure|*Complete*|[/measure](https://github.com/thorlindberg/measure)|[Web App](https://thorlindberg.github.io/measure/)|
-|JavaScript|PlayScript|*Complete*|[/playscript](https://github.com/thorlindberg/playscript)|[Desktop App](https://thorlindberg.github.io/playscript/)|
+|JavaScript|Measure|*Complete*|[/measure](https://github.com/thorlindberg/measure)|[Mobile Website](https://thorlindberg.github.io/measure/)|
+|JavaScript|PlayScript|*Complete*|[/playscript](https://github.com/thorlindberg/playscript)|[Desktop Website](https://thorlindberg.github.io/playscript/)|
 |JavaScript|Markdocs|*Complete*|[/markdocs](https://github.com/thorlindberg/markdocs)||
 |JavaScript|Thesis|*Complete*|[/thesis](https://github.com/thorlindberg/thesis)||
 |VBA|Programmatic UserForm|*In-progress*|[/programmatic-userform](https://github.com/thorlindberg/programmatic-userform)||
