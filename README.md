@@ -30,22 +30,22 @@ Through my degrees in information science and technology I have developed skills
 
 **Education**
 
-|Degree                               |University                   |Date       |
-|-------------------------------------|-----------------------------|-----------|
+|Degree|University|Date|
+|:-|:-|:-|
 |MSc Design and Information Technology|*IT-University of Copenhagen*|*2020-2022*|
-|BSc Health and Information Science   |*Copenhagen University*      |*2017-2020*|
+|BSc Health and Information Science|*Copenhagen University*|*2017-2020*|
 
 <br>
 
 **Experience**
 
-|Position                             |Team                         |Employer   |Date       |
-|-------------------------------------|-----------------------------|-----------|-----------|
-|Assistant Lecturer                   |[UX Design II](https://learnit.itu.dk/local/coursebase/view.php?ciid=1008 "https://learnit.itu.dk/local/coursebase/view.php?ciid=1008")|*IT-University of Copenhagen*|2022       |
-|Student IT Administrator             |[Financial Intelligence Unit](https://hvidvask.dk/ "https://hvidvask.dk/")|*Danish Police*|*2021-2022*|
-|Teaching Assistant                   |[UX Design I](https://learnit.itu.dk/local/coursebase/view.php?ciid=895 "https://learnit.itu.dk/local/coursebase/view.php?ciid=895"), [Experimental Design](https://learnit.itu.dk/local/coursebase/view.php?ciid=865 "https://learnit.itu.dk/local/coursebase/view.php?ciid=865")|*IT-University of Copenhagen*|*2022*     |
-|Teaching Assistant                   |[Introduction to Programming](https://learnit.itu.dk/local/coursebase/view.php?ciid=735 "https://learnit.itu.dk/local/coursebase/view.php?ciid=735")|*IT-University of Copenhagen*|*2021*     |
-|Store Leader                         |[Domino's Pizza](https://www.dominos.dk "https://www.dominos.dk")|*Domino's Lyngby*|*2021-2022*|
+|Position|Team|Employer|Date|
+|:-|:-|:-|:-|
+|Assistant Lecturer|[UX Design II](https://learnit.itu.dk/local/coursebase/view.php?ciid=1008 "https://learnit.itu.dk/local/coursebase/view.php?ciid=1008")|*IT-University of Copenhagen*|2022|
+|Student IT Administrator|[Financial Intelligence Unit](https://hvidvask.dk/ "https://hvidvask.dk/")|*Danish Police*|*2021-2022*|
+|Teaching Assistant|[UX Design I](https://learnit.itu.dk/local/coursebase/view.php?ciid=895 "https://learnit.itu.dk/local/coursebase/view.php?ciid=895"), [Experimental Design](https://learnit.itu.dk/local/coursebase/view.php?ciid=865 "https://learnit.itu.dk/local/coursebase/view.php?ciid=865")|*IT-University of Copenhagen*|*2022*|
+|Teaching Assistant|[Introduction to Programming](https://learnit.itu.dk/local/coursebase/view.php?ciid=735 "https://learnit.itu.dk/local/coursebase/view.php?ciid=735")|*IT-University of Copenhagen*|*2021*|
+|Store Leader|[Domino's Pizza](https://www.dominos.dk "https://www.dominos.dk")|*Domino's Lyngby*|*2021-2022*|
 
 <br>
 
