@@ -2,8 +2,6 @@ Interested in learning more about me? [View my resume](https://thorlindberg.gith
 
 <br>
 
-**Projects**
-
 |Language|Name|Status|Repository|Download|
 |:-|:-|:-|:-|:-|
 |Python|Biosciences|*Complete*|[/biosciences](https://github.com/thorlindberg/biosciences)||
