@@ -1,14 +1,4 @@
-Hi 👋 I'm Thor Lindberg, a 25-year old developer and digital designer working in IT administration and data analytics.
-
-I have 4+ years of experience with object-oriented programming (OOP) languages, and 1+ year of experience with event/state-driven software development.
-
-My interests include software design, data processing, augmented reality, and machine learning. I express these through my work and projects as an independent Apple developer.
-
-Through my degrees in information science and technology I have developed skills in planning and conducting iterative, agile, and cross-disciplinary IT projects.
-
-<br>
-
-Interested in learning more about me? Please [check out my resume](https://thorlindberg.github.io/thorlindberg/resume.pdf)
+Interested in learning more about me? [View my resume](https://thorlindberg.github.io/thorlindberg/resume.pdf)
 
 <br>
 
