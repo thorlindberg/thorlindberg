@@ -2,6 +2,12 @@ Interested in learning more about me? [View my resume](https://thorlindberg.gith
 
 <br>
 
+I'm currently working on [Transparent GIF](https://github.com/thorlindberg/transparent), an iOS application for auto-removal of video backgrounds and subsequent GIF encoding/export. I'm working on my [design system](https://github.com/thorlindberg/design-system) skills in React, through a project that dynamically previews an entire system based on source code. I'm also expanding my knowledge of [data structures and algorithms](https://github.com/thorlindberg/data-structures-and-algorithms).
+
+<br>
+
+Projects
+
 |Language|Name|Status|Repository|Download|
 |:-|:-|:-|:-|:-|
 |Python|Biosciences|*Complete*|[/biosciences](https://github.com/thorlindberg/biosciences)||
